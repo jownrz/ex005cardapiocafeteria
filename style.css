@@ -1,0 +1,54 @@
+header {
+    color:rgb(233, 233, 233);
+    background-color:  rgb(71, 55, 55);
+
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 60px;
+    padding:20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#drink1 {
+    border-top: 1px solid rgb(233, 233, 233);;
+}
+
+#drink5 {
+    display: none;
+}
+
+.inline {
+    display: inline
+}
+
+.price {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+div {
+    padding:20px;
+}
+
+footer {
+    background-color: black;
+    color:rgb(233, 233, 233);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    padding:20px;
+    width: 100%;
+    border-top: 1px solid rgb(233, 233, 233);;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+main {
+    color: rgb(233, 233, 233);
+    background: linear-gradient(180deg, rgb(71, 55, 55), black );
+}
